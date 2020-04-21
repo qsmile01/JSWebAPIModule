@@ -1,15 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c50e64d7-fe73-4bc5-8ce9-527fbd5c70ea" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="c50e64d7-fe73-4bc5-8ce9-527fbd5c70ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/penny.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/01反馈问题.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/02课程介绍.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/03DOM的概念及作用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/05真正的体验DOM操作.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/06案例点击按钮弹出对话框.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/09案例点击按钮弹出对话框.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/10案例点击按钮显示图片.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/11案例点击按钮修改p标签的内容.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/12案例点击按钮修改a标签的地址和热点文字.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/13案例点击按钮修改多个p标签的文字内容.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/14案例点击按钮修改图片的alt和title属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/15案例点击按钮修改所有文本框的值.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/16案例点击每个图片弹出对话框.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/17案例点击按钮修改按钮的value属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/18案例点击图片修改自身的宽和高.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/19案例排他功能.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/20案例点击超链接切换图片.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/21案例点击按钮修改图片.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/22案例点击按钮修改性别和兴趣.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/23案例点击按钮选择菜单.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/24案例点击按钮设置div的宽和高和背景颜色.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/25案例点击按钮设置div隐藏.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/26案例点击按钮显示和隐藏div.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/27案例点击按钮设置div的样式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/28案例点击按钮显示和隐藏div.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/29案例网页开关灯.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/30作业.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_day/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsBowerSettings">
     <node-interpreter value="project" />
@@ -22,48 +54,28 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="270" />
-    <option name="y" value="23" />
-    <option name="width" value="1650" />
-    <option name="height" value="1057" />
+  <component name="ProjectId" id="1ar69SMtj641J0hNoudjDXgOdb1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope '项目文件'; set:项目文件; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope">
-        <subPane subId="Scope '项目文件'; set:项目文件; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="JSWebAPIModule" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Desktop/JavaScript/Code/JSWebAPIModule" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/01_day" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -76,36 +88,12 @@
       <option name="presentableId" value="Default" />
       <updated>1587457508035</updated>
       <workItem from="1587457509785" duration="13000" />
+      <workItem from="1587481217923" duration="1477000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="270" y="23" width="1650" height="1057" extended-state="0" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24984653" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="masterDetails">
     <states>

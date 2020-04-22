@@ -2,37 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c50e64d7-fe73-4bc5-8ce9-527fbd5c70ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/penny.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/01反馈问题.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/02课程介绍.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/03DOM的概念及作用.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/05真正的体验DOM操作.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/06案例点击按钮弹出对话框.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/09案例点击按钮弹出对话框.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/10案例点击按钮显示图片.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/11案例点击按钮修改p标签的内容.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/12案例点击按钮修改a标签的地址和热点文字.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/13案例点击按钮修改多个p标签的文字内容.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/14案例点击按钮修改图片的alt和title属性.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/15案例点击按钮修改所有文本框的值.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/16案例点击每个图片弹出对话框.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/17案例点击按钮修改按钮的value属性.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/18案例点击图片修改自身的宽和高.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/19案例排他功能.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/20案例点击超链接切换图片.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/21案例点击按钮修改图片.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/22案例点击按钮修改性别和兴趣.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/23案例点击按钮选择菜单.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/24案例点击按钮设置div的宽和高和背景颜色.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/25案例点击按钮设置div隐藏.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/26案例点击按钮显示和隐藏div.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/27案例点击按钮设置div的样式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/28案例点击按钮显示和隐藏div.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/29案例网页开关灯.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/30作业.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_day/common.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/01复习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/02课程介绍.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/03案例点击按钮禁用文本框.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/04案例点击按钮修改列表背景颜色.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/06案例点击小图切换大图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/07案例美女相册.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/08案例列表隔行变色.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/09案例列表的高亮显示.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/10案例显示和隐藏二维码.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/11根据name属性值获取元素.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/12根据类样式的名字来获取元素.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/13获取元素的其他的方式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/14总结获取元素的方式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/15案例div高亮显示.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/16案例模拟搜索框.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/17案例验证文本框密码长度.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/18案例设置和获取文本框的值.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/19innerText和textContent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/20innerText和innerHTML的区别.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/21自定义属性引入.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/22自定义属性设置和获取.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/24tab切换案例实现.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/25作业.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_day/common.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,10 +63,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/02_day" />
       <recent name="$PROJECT_DIR$/01_day" />
     </key>
   </component>
@@ -89,11 +83,22 @@
       <updated>1587457508035</updated>
       <workItem from="1587457509785" duration="13000" />
       <workItem from="1587481217923" duration="1477000" />
+      <workItem from="1587517656616" duration="10584000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="279" key="RollbackChangesDialog" timestamp="1587540737860">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="743" y="279" key="RollbackChangesDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1587540737860" />
+    <state x="514" y="190" key="SettingsEditor" timestamp="1587517892685">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="514" y="190" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1587517892685" />
   </component>
   <component name="masterDetails">
     <states>

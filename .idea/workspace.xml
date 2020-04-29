@@ -2,59 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c50e64d7-fe73-4bc5-8ce9-527fbd5c70ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_day/01复习.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/02课程介绍.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/04节点的相关的属性.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/05获取相关的节点.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/06获取相关的节点.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/07获取相关的节点.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/08案例点击按钮设置div中p标签改变背景颜色.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/09案例节点操作隔行变色.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/10节点的兼容代码.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/11案例切换背景图片.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/12案例全选和全不选的实现.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/13元素创建的不同方式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/14第一种元素创建的方式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/15第二种元素创建方式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/16案例点击按钮创建一个图片.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/17案例点击按钮创建列表.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/18扩展的页面中嵌入广告.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/19第三种元素创建方式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/20案例动态创建列表.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/21案例点击按钮创建一个表格.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/22元素相关的方法.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/23只创建一个元素.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/24为元素绑定事件的引入.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/25为元素绑定多个事件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/26为元素绑定事件兼容代码.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/27作业.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/programmer1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_day/programmer2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_day/01复习.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_day/02课程介绍.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_day/03绑定事件的区别.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_day/04为元素解绑事件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_day/05为元素绑定事件和解绑事件的兼容代码.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_day/06事件冒泡.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_day/07事件阶段.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_day/08为同一个元素绑定多个不同事件指向同一个事件处理函数.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_day/09案例模拟百度搜索大项目.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_day/10BOM.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_day/11系统对话框.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_day/12加载事件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_day/13location对象.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_day/14history对象.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_day/15test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_day/16navigator对象.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_day/17定时器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_day/18一起摇起来.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_day/19案例一闪一闪亮晶晶.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_day/20案例美女时钟.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_day/21作业.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_day/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_day/01复习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_day/02课程介绍.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_day/03另一个定时器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_day/04案例协议按钮禁用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_day/05案例div渐变.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_day/06案例设置div的宽度.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_day/07案例移动元素.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_day/08封装动画函数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_day/09动画函数封装.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_day/14offset系列.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_day/15offset系列具体的值.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_day/16直接动过document获取元素.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_day/17案例图片跟着鼠标飞.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_day/18作业.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_day/common.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_day/24tab切换案例实现.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_day/24tab切换案例实现.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +58,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/05_day" />
       <recent name="$PROJECT_DIR$/04_day" />
       <recent name="$PROJECT_DIR$/03_day" />
       <recent name="$PROJECT_DIR$/02_day" />

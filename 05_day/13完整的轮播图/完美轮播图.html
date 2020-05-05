@@ -1,0 +1,225 @@
+﻿<!DOCTYPE html>
+<html>
+<head lang="en">
+  <meta charset="UTF-8">
+  <title></title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0
+    }
+
+    ul {
+      list-style: none
+    }
+
+    img {
+      vertical-align: top
+    }
+
+    .box {
+      width: 730px;
+      height: 454px;
+      margin: 100px auto;
+      padding: 5px;
+      border: 1px solid #ccc;
+    }
+
+    .inner {
+      width: 730px;
+      height: 454px;
+      background-color: pink;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .inner ul {
+      width: 1000%;
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+
+    .inner li {
+      float: left;
+    }
+
+    .square {
+      position: absolute;
+      right: 10px;
+      bottom: 10px;
+    }
+
+    .square span {
+      display: inline-block;
+      width: 16px;
+      height: 16px;
+      background-color: #fff;
+      text-align: center;
+      line-height: 16px;
+      cursor: pointer;
+      margin-left: 6px;
+    }
+
+    .square span.current {
+      background-color: orangered;
+      color: #fff;
+    }
+
+    #focusD {
+      display: none;
+    }
+
+    #focusD span {
+      width: 40px;
+      height: 40px;
+      position: absolute;
+      left: 5px;
+      top: 40%;
+      margin-top: -20px;
+      background: #000;
+      cursor: pointer;
+      line-height: 40px;
+      text-align: center;
+      font-weight: bold;
+      font-family: '黑体';
+      font-size: 30px;
+      color: #fff;
+      opacity: 0.3;
+      border: 1px solid #fff;
+    }
+
+    #focusD #right {
+      right: 5px;
+      left: auto;
+    }
+  </style>
+</head>
+<body>
+<div class="box" id="box">
+  <div class="inner"><!--相框-->
+    <ul>
+      <li><a href="#"><img src="images111/1.jpg" alt=""/></a></li>
+      <li><a href="#"><img src="images111/2.jpg" alt=""/></a></li>
+      <li><a href="#"><img src="images111/3.jpg" alt=""/></a></li>
+      <li><a href="#"><img src="images111/4.jpg" alt=""/></a></li>
+      <li><a href="#"><img src="images111/5.jpg" alt=""/></a></li>
+    </ul>
+    <div class="square">
+    </div>
+
+    <div id="focusD"><span id="left">&lt;</span><span id="right">&gt;</span>
+    </div>
+  </div>
+</div>
+<script src="common.js"></script>
+<script>
+  var box = my$("box");
+  var inner = box.children[0];
+  var imgwidth = inner.offsetWidth;
+
+  var ulobj = inner.children[0];
+  var list = ulobj.children;
+
+  var olobj = inner.children[1];
+  ulobj.appendChild(list[0].cloneNode(true));
+
+  // 添加page
+  var pic = 0;
+  for (var i = 0; i < list.length - 1; i ++){
+    var temp = document.createElement("span");
+    olobj.appendChild(temp);
+    temp.innerText = (i + 1).toString();
+
+    temp.setAttribute("index", i);
+    temp.onmouseover = function () {
+        for (var j = 0; j < olobj.children.length; j++){
+          olobj.children[j].removeAttribute("class");
+        }
+
+        pic = this.getAttribute("index");
+        this.className = "current";
+        animate(ulobj, - pic * imgwidth)
+    };
+
+    if (i == 0){
+      temp.className = "current";
+    }
+  }
+
+  var timeid = setInterval(righteventhandle, 1000);
+
+  box.onmouseover = function () {
+    my$("focusD").style.display = "block";
+    clearInterval(timeid);
+  };
+
+  box.onmouseout = function () {
+    my$("focusD").style.display = "none";
+    timeid = setInterval(righteventhandle, 1000);
+  };
+
+  my$("right").onclick  = righteventhandle;
+  function righteventhandle() {
+    if (pic == list.length - 1){
+      pic = 0;
+      ulobj.style.left = 0 + "px";
+    }
+    pic ++;
+    animate(ulobj, - pic * imgwidth)
+
+    if (pic == list.length - 1){
+      olobj.children[0].className = "current";
+      olobj.children[pic - 1].removeAttribute("class");
+    }else{
+      for (var j = 0; j < olobj.children.length; j++){
+        olobj.children[j].removeAttribute("class");
+      }
+
+      olobj.children[pic].className = "current";
+    }
+
+  };
+
+  my$("left").onclick = function () {
+    if (pic == 0){
+      pic = list.length - 1;
+      ulobj.style.left = - pic * imgwidth + "px";
+    }
+    pic --;
+
+    for (var j = 0; j < olobj.children.length; j++){
+      olobj.children[j].removeAttribute("class");
+    }
+
+    olobj.children[pic].className = "current";
+    animate(ulobj, - pic * imgwidth)
+  };
+
+
+  //设置任意的一个元素,移动到指定的目标位置
+  function animate(element, target) {
+    clearInterval(element.timeId);
+    //定时器的id值存储到对象的一个属性中
+    element.timeId = setInterval(function () {
+      //获取元素的当前的位置,数字类型
+      var current = element.offsetLeft;
+      //每次移动的距离
+      var step = 10;
+      step = current < target ? step : -step;
+      //当前移动到位置
+      current += step;
+      if (Math.abs(current - target) > Math.abs(step)) {
+        element.style.left = current + "px";
+      } else {
+        //清理定时器
+        clearInterval(element.timeId);
+        //直接到达目标
+        element.style.left = target + "px";
+      }
+    }, 10);
+  }
+</script>
+
+</body>
+</html>

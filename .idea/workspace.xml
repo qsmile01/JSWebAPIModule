@@ -2,22 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c50e64d7-fe73-4bc5-8ce9-527fbd5c70ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/05_day/01复习.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_day/02课程介绍.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_day/03另一个定时器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_day/04案例协议按钮禁用.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_day/05案例div渐变.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_day/06案例设置div的宽度.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_day/07案例移动元素.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_day/08封装动画函数.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_day/09动画函数封装.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_day/14offset系列.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_day/15offset系列具体的值.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_day/16直接动过document获取元素.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_day/17案例图片跟着鼠标飞.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_day/18作业.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_day/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_day/13完整的轮播图/images111/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_day/13完整的轮播图/images111/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_day/13完整的轮播图/images111/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_day/13完整的轮播图/images111/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_day/13完整的轮播图/images111/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_day/13完整的轮播图/完美轮播图.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_day/13完整的轮播图/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_day/13完整的轮播图/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_day/13完整的轮播图/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_day/13完整的轮播图/images/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_day/13完整的轮播图/images/5.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,12 +47,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/05_day/13完整的轮播图/images" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/05_day/13完整的轮播图/images" />
+      <recent name="$PROJECT_DIR$/05_day/13完整的轮播图" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/05_day" />
       <recent name="$PROJECT_DIR$/04_day" />
@@ -80,6 +80,7 @@
       <workItem from="1587517656616" duration="10584000" />
       <workItem from="1587567475187" duration="2070000" />
       <workItem from="1588074698721" duration="1596000" />
+      <workItem from="1588679042634" duration="3953000" />
     </task>
     <servers />
   </component>
@@ -87,6 +88,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="613" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588682452891">
+      <screen x="71" y="0" width="1609" height="1050" />
+    </state>
+    <state x="613" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/71.0.1609.1050@71.0.1609.1050" timestamp="1588682452891" />
     <state x="743" y="279" key="RollbackChangesDialog" timestamp="1587540737860">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>

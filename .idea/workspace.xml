@@ -2,18 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c50e64d7-fe73-4bc5-8ce9-527fbd5c70ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/05_day/13完整的轮播图/images111/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_day/13完整的轮播图/images111/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_day/13完整的轮播图/images111/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_day/13完整的轮播图/images111/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_day/13完整的轮播图/images111/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_day/13完整的轮播图/完美轮播图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_day/01复习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_day/02课程介绍.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_day/03案例图片跟着鼠标飞.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_day/04案例图片跟着鼠标飞终极版本.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_day/05案例拖拽的对话框.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_day/06案例阻止超链接跳转.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_day/07图片跟着鼠标飞新的问题.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_day/09div的滚动条.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_day/10滚动条案例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_day/11元素隐藏的不同的方式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_day/12案例表格隔行变色.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_day/13案例tab切换效果.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_day/14案例大量字符串拼接效果实现.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_day/15案例无刷新评论.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_day/16作业.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_day/common.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_day/13完整的轮播图/images/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_day/13完整的轮播图/images/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_day/13完整的轮播图/images/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_day/13完整的轮播图/images/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_day/13完整的轮播图/images/5.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +63,11 @@
       <recent name="$PROJECT_DIR$/05_day/13完整的轮播图" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/07_day" />
+      <recent name="$PROJECT_DIR$/06_day" />
       <recent name="$PROJECT_DIR$/05_day" />
       <recent name="$PROJECT_DIR$/04_day" />
       <recent name="$PROJECT_DIR$/03_day" />
-      <recent name="$PROJECT_DIR$/02_day" />
-      <recent name="$PROJECT_DIR$/01_day" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -80,7 +85,7 @@
       <workItem from="1587517656616" duration="10584000" />
       <workItem from="1587567475187" duration="2070000" />
       <workItem from="1588074698721" duration="1596000" />
-      <workItem from="1588679042634" duration="3953000" />
+      <workItem from="1588679042634" duration="9250000" />
     </task>
     <servers />
   </component>
